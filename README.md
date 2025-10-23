@@ -37,7 +37,7 @@
 
 ## Live Apps
 
-**[Visit the CortensorLabs ](https://(REPLACE-ME-YOUR-VERCEL-URL).vercel.app)**
+**[Visit the CortensorLabs ](https://cortensor-labs.vercel.app/)**
 
 ---
 
