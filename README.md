@@ -30,7 +30,7 @@
 
 | Web View | Mobile View  | Web & Mobile (Demo)
 | :---: | :---: | :---: |
-| [CortensorLabs Web Preview](https://drive.google.com/file/d/1ASjUbWlO3QkSTKfM9IVNuzeobYNX8Zrr/view?usp=sharing) | [CortensorLabs Mobile Preview](https://drive.google.com/file/d/1SRzshO5XQc9P_w93J-br38pb1EYm7Ph6/view?usp=sharing) | ![CortensorLabs Desktop Preview](https://via.placeholder.com/800x450?text=Replace+Me+with+Desktop+Screenshot)
+| [CortensorLabs Web Preview](https://drive.google.com/file/d/1ASjUbWlO3QkSTKfM9IVNuzeobYNX8Zrr/view?usp=sharing) | [CortensorLabs Mobile Preview](https://drive.google.com/file/d/1SRzshO5XQc9P_w93J-br38pb1EYm7Ph6/view?usp=sharing) | [CortensorLabs Web & Mobile (Demo)](https://drive.google.com/file/d/1UVZf5RbL1F4D3DRj-q4acv53OXmVBav9/view?usp=sharing)
 
 
 ---
