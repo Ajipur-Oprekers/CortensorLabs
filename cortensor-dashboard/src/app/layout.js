@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Cortensor Agentic AI",
-  description: "Cortensor Agentic AI",
+  title: "CortensorLabs",
+  description: "CortensorLabs",
 };
 
 export default function RootLayout({ children }) {
